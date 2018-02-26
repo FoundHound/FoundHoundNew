@@ -1,0 +1,46 @@
+nav.navbar.navbar-default {
+  margin-bottom: 0;
+}
+
+.navbar-header {
+	height: 50px;
+	text-align: center;
+ 	padding: 10px 15px;
+}
+
+.navbar-toggle {
+	float: left;
+	margin:0;
+	padding:0;
+	border:none;
+}
+
+.navbar-toggle .icon-bar+.icon-bar,
+.extraMargin {
+	margin-top: 7px;
+}
+
+.navbar-toggle .icon-bar {
+	width:30px;
+	background-color: #46C8F5 !important;
+}
+
+.navbar a {
+	margin-left:15px !important;
+ }
+
+.navbar a img { 
+	width: 35.5px;
+
+}
+
+.navbar a,
+.navbar i {
+	display: inline-block;
+}
+
+.navbar i {
+	font-size: 35px;
+	float: right;
+	color: #46C8F5;
+}

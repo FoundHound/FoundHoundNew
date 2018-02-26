@@ -1,0 +1,1 @@
+imagesexport { default } from "./Footer";
